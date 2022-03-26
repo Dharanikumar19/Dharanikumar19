@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning **React, Nodejs, Expressjs , MongoDb**
 
-- 👨‍💻 All of my projects are available at [https://dk-e-commerce.netlify.app](https://dk-e-commerce.netlify.app)
+- 👨‍💻 All of my projects are available at [https://dharanikumar-portfolio.netlify.app](https://dharanikumar-portfolio.netlify.app)
 
 - 📫 How to reach me **dharanikumarmuthusamy@gmail.com**
 
-- 📄 Know about my experiences [https://dk-e-commerce.netlify.app](https://dk-e-commerce.netlify.app)
+- 📄 Know about my experiences [https://dharanikumar-portfolio.netlify.app](https://dharanikumar-portfolio.netlify.app)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
