@@ -1,7 +1,5 @@
-
 <h1 align="center">Hi 👋, I'm Dharani kumar</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dharanikumar19&label=Profile%20views&color=0e75b6&style=flat" alt="dharanikumar19" /> </p>
 
@@ -9,16 +7,15 @@
 
 - 🌱 I’m currently learning **React, Nodejs, Expressjs , MongoDb**
 
-- 👨‍💻 All of my projects are available at [https://dharanikumar-portfolio.netlify.app](https://dharanikumar-portfolio.netlify.app)
+- 👨‍💻 All of my projects are available at [https://dk-e-commerce.netlify.app](https://dk-e-commerce.netlify.app)
 
 - 📫 How to reach me **dharanikumarmuthusamy@gmail.com**
 
-- 📄 Know about my experiences [https://dharanikumar-portfolio.netlify.app](https://dharanikumar-portfolio.netlify.app)
+- 📄 Know about my experiences [https://dk-e-commerce.netlify.app](https://dk-e-commerce.netlify.app)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/dharani kumar muthusamy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dharani kumar muthusamy" height="30" width="40" /></a>
-<a href="https://instagram.com/i_m_dharani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i_m_dharani" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/dharani-kumar-muthusamy-781a8118b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dharani-kumar-muthusamy-781a8118b/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -29,3 +26,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dharanikumar19&show_icons=true&locale=en" alt="dharanikumar19" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dharanikumar19&" alt="dharanikumar19" /></p>
+
